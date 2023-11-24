@@ -1,8 +1,8 @@
-# Fast React Pizza Co. 🍕
+# [Fast React Pizza Co. 🍕](https://uche-jordy-pizzamenu.netlify.app/)
 
 ## Introduction
 
-Fast React Pizza Co. is a visually captivating web application showcasing Italian cuisine pizza dishes, developed using React.js. This application demonstrates the effective use of data structures and CSS grid to create an engaging user experience.
+[Fast React Pizza Co](https://uche-jordy-pizzamenu.netlify.app/). is a visually captivating web application showcasing Italian cuisine pizza dishes, developed using React.js. This application demonstrates the effective use of data structures and CSS grid to create an engaging user experience.
 
 ## Key Features 😋
 
